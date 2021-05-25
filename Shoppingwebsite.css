@@ -1,0 +1,72 @@
+body{
+	background: #D0ECE7;
+	font-family: Arial;
+	margin: 30px
+}
+h1{
+	display: inline-block;
+	font-family: "Arial black";
+	float: left;
+	color: #873600;
+	margin-left: 20px; 
+}
+header{
+	background: #E8F8F5;
+}
+.up{
+	display: inline-block;
+	font-style: italic;
+	font-size: 25px;
+	font-family: arial;
+}
+
+.tit{
+	color: #4A235A;
+	font-size: 20px;
+	clear: both;
+	border: outset;
+	background:#E6B0AA;
+	width: 97%;
+	text-align: center;
+	margin-left:  10px;
+	margin-right: 10px;
+}
+nav{
+	padding-top: 50px;
+	display: inline-block;
+	float: right
+
+}
+
+.Picture{
+	display: inline-block;
+	float: right;
+	width: 65%;
+}
+aside{
+	display: inline-block;
+	float: left;
+	width: 30%;
+}
+.sec2{
+	clear: both;
+	float: right;
+	width: 65%;
+}
+.sec{
+	clear: right;
+	display: inline-block;
+	float: right;
+}
+.second{
+	display: inline-block;
+	float: right;
+	width: 35%;
+	
+}
+footer{
+	clear: both;
+	text-align: center;
+	font-style: italic;
+	padding: : 20px;
+}
